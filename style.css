@@ -1,0 +1,35 @@
+.timerBtn{
+    width:250px;
+    height: 100px;
+    border: 3px solid;
+    border-radius: 12px;
+    background-color: #333333;
+    color: SpringGreen;
+    cursor: pointer;
+    font-family: consoles, monospace;
+    font-size: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 40px;
+}
+
+.timerBtn:hover {
+    background-color: #232324;
+}
+
+
+#timeDisplay{
+    font-size: 200px;
+    color: DodgerBlue;
+    font-family: consolas, monospace;
+}
+
+#timeContainer{
+    text-align: center;
+    border: 10px solid;
+    border-color: springgreen;
+    border-radius: 25px;
+    background-color: #222222;
+    width: 1000px;
+    height: 500px;
+}
